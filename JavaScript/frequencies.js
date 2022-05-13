@@ -1,3 +1,5 @@
+//Count occurrences in an Array
+
 const frequencies = (arr) => {
   
   return arr.reduce((array, value) => {
